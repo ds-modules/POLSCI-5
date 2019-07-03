@@ -6,5 +6,9 @@
 
 ## Civil Wars 7/2/19
 - Cleaning data -- trying to figure out a way to change values (e.g. types of conflict) using datascience library? Seems more feasible using Pandas?
+- Reformatting year --> Ravi found a way to do it, but when I group by that column the format reverts back to the original (overall dataset reformatting remains) 
+- Can we and should we drop unecessary columns?
+- The "Year" column is breaking down a war year-by-year 
+- Some numbers are integers (e.g. "Years" column) while others are represented as strings (e.g. "Region") 
 - Type of visualization wanted?
 - Understanding differences between what columns stand for 
