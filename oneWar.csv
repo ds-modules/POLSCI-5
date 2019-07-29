@@ -2,13 +2,12 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-191,1,Algeria,Government of Algeria,AIS,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/27/1985,10/01/1997,Ceasefire,Africa
 1-191,2,Algeria,Government of Algeria,Takfir wa'l Hijra,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/20/1990,12/31/1991,Actor ceases to exist,Africa
 1-191,3,Algeria,Government of Algeria,GIA,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/10/1992,12/31/2003,Low activity (less than 25 battle-deaths),Africa
-1-131,7,Angola,Government of Angola,UNITA,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,11/11/1975,04/01/2002,Peace agreement,Africa
+1-131,7,Angola,Government of Angola,UNITA,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/11/1975,12/24/1995,Low activity (less than 25 battle-deaths),Africa
 1-90,11,Burundi,Government of Burundi,Palipehutu,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/23/1991,04/14/1992,Low activity (less than 25 battle-deaths),Africa
 1-90,12,Burundi,Government of Burundi,CNDD,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/13/1994,12/31/1998,Low activity (less than 25 battle-deaths),Africa
 1-90,13,Burundi,Government of Burundi,Frolina,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/13/1990,12/31/1997,Low activity (less than 25 battle-deaths),Africa
 1-90,14,Burundi,Government of Burundi,CNDD-FDD ,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/07/1998,11/16/2003,Peace agreement,Africa
 1-90,15,Burundi,Government of Burundi,Palipehutu-FNL,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/14/1997,08/22/2008,Peace agreement,Africa
-1-222,17,Central African Republic,Government of Central African Republic,Military faction (forces of André Kolingba),Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,05/27/2001,06/08/2001,Victory for Side A /Government Side,Africa
 1-91,18,Chad,Government of Chad,Revolutionary Forces of 1 April ,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,10/20/1989,12/31/1989,Actor ceases to exist,Africa
 1-91,19,Chad,Government of Chad,MOSANAT,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/19/1988,12/31/1989,Actor ceases to exist,Africa
 1-91,20,Chad,Government of Chad,Islamic Legion,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/22/1987,12/31/1990,Low activity (less than 25 battle-deaths),Africa
@@ -19,12 +18,7 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-91,26,Chad,Government of Chad,FARF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/12/1994,05/07/1998,Peace agreement,Africa
 1-91,27,Chad,Government of Chad,MDJT,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/05/1999,12/14/2003,Low activity (less than 25 battle-deaths),Africa
 1-213,35,Comoros,Government of Comoros,MPA/Republic of Anjouan,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/03/1997,09/05/1997,Victory for Side B /Rebel Side,Africa
-1-214,36,Congo,Government of Congo,Ninjas,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,11/03/1993,12/29/1999,Peace agreement,Africa
-1-214,37,Congo,Government of Congo,Cocoyes,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,10/18/1997,12/29/1999,Peace agreement,Africa
-1-214,38,Congo,Government of Congo,Ntsiloulous,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,08/28/1998,12/31/2002,Ceasefire,Africa
-1-86,39,DR Congo (Zaire),Government of DR Congo (Zaire) ,AFDL,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,10/18/1996,05/16/1997,Victory for Side B /Rebel Side,Africa
-1-86,40,DR Congo (Zaire),Government of DR Congo (Zaire) ,RCD,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,08/01/1998,09/29/2001,Peace agreement,Africa
-1-86,41,DR Congo (Zaire),Government of DR Congo (Zaire) ,MLC,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,11/01/1998,12/31/2000,Peace agreement,Africa
+1-214,36,Congo,Government of Congo,Ninjas,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/03/1993,12/27/1993,Ceasefire,Africa
 1-184,43,Djibouti,Government of Djibouti,FRUD,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/12/1991,03/04/1994,Peace agreement,Africa
 1-184,44,Djibouti,Government of Djibouti,FRUD - AD,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/01/1997,08/31/1999,Peace agreement,Africa
 1-70,46,Ethiopia,Government of Ethiopia,TPLF,Government,War (at least 1000 battle-related deaths),Internal armed conflict,08/27/1975,04/30/1988,Actor ceases to exist,Africa
@@ -38,10 +32,8 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-133,54,Ethiopia,Government of Ethiopia,ONLF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/26/1994,12/31/1996,Victory for Side A /Government Side,Africa
 1-219,55,Ethiopia,Government of Ethiopia,OLF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/31/1974,12/31/2013,Low activity (less than 25 battle-deaths),Africa
 1-111,57,Guinea,Government of Guinea,RFDG,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/01/2000,07/19/2001,Low activity (less than 25 battle-deaths),Africa
-1-216,58,Guinea-Bissau,Government of Guinea-Bissau,"Military Junta for the Consolidation of Democracy, Peace and Justice",Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,06/07/1998,05/07/1999,Victory for Side B /Rebel Side,Africa
 1-225,89,Ivory Coast,Government of Ivory Coast,MPCI,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/19/2002,12/31/2002,Peace agreement,Africa
 1-225,91,Ivory Coast,Government of Ivory Coast,MPIGO,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/28/2002,03/07/2003,Peace agreement,Africa
-1-217,92,Lesotho,Government of Lesotho,Military faction,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,09/04/1998,09/28/1998,Victory for Side A /Government Side,Africa
 1-146,93,Liberia,Government of Liberia,NPFL,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/24/1989,12/31/1990,Peace agreement,Africa
 1-146,94,Liberia,Government of Liberia,INPFL,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/14/1990,12/31/1990,Low activity (less than 25 battle-deaths),Africa
 1-146,95,Liberia,Government of Liberia,LURD,Government,War (at least 1000 battle-related deaths),Internal armed conflict,05/31/2000,11/21/2003,Peace agreement,Africa
@@ -55,15 +47,12 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-179,128,Rwanda,Government of Rwanda,ALiR,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/12/1996,09/30/2000,Actor ceases to exist,Africa
 1-180,129,Senegal,Government of Senegal,MFDC,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1988,12/30/2011,Low activity (less than 25 battle-deaths),Africa
 1-187,130,Sierra Leone,Government of Sierra Leone,RUF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/23/1991,12/20/2001,Peace agreement,Africa
-1-187,131,Sierra Leone,Government of Sierra Leone,AFRC,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,05/25/1997,12/31/1999,Low activity (less than 25 battle-deaths),Africa
-1-187,132,Sierra Leone,Government of Sierra Leone,Kamajors,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,05/27/1997,03/10/1998,Actor ceases to exist,Africa
 1-118,148,Uganda,Government of Uganda,UPA,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/03/1987,08/09/1992,Victory for Side A /Government Side,Africa
 1-118,149,Uganda,Government of Uganda,HSM,Government,War (at least 1000 battle-related deaths),Internal armed conflict,10/19/1986,11/04/1987,Victory for Side A /Government Side,Africa
-1-118,151,Uganda,Government of Uganda,LRA,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,02/25/1988,11/03/2011,Low activity (less than 25 battle-deaths),Africa
+1-118,151,Uganda,Government of Uganda,LRA,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/25/1988,08/26/2006,Peace agreement,Africa
 1-118,152,Uganda,Government of Uganda,WNBF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,10/18/1995,12/31/1996,Low activity (less than 25 battle-deaths),Africa
-1-118,153,Uganda,Government of Uganda,ADF,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,11/13/1996,11/03/2011,Low activity (less than 25 battle-deaths),Africa
+1-118,153,Uganda,Government of Uganda,ADF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/13/1996,12/31/2007,Low activity (less than 25 battle-deaths),Africa
 1-167,158,Comoros,Government of Comoros,Presidential guard,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/27/1989,11/29/1989,Victory for Side B /Rebel Side,Africa
-1-214,189,Congo,Government of Congo,Cobras,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,01/29/1994,10/16/1997,Victory for Side B /Rebel Side,Africa
 1-192,190,Angola,Government of Angola,FLEC-FAC,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/06/1992,12/31/2009,Low activity (less than 25 battle-deaths),Africa
 1-192,191,Angola,Government of Angola,FLEC-R,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/03/1991,12/31/2002,Low activity (less than 25 battle-deaths),Africa
 1-141,207,Somalia,Government of Somalia,SNM,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,04/30/1982,12/31/1991,Low activity (less than 25 battle-deaths),Africa
@@ -109,13 +98,11 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-54,286,India,Government of India,NSCN-IM,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/24/1982,12/31/2000,Ceasefire,Asia
 1-222,287,Central African Republic,Government of Central African Republic,Forces of Francois Bozize,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/20/2002,12/19/2002,Victory for Side B /Rebel Side,Africa
 1-185,289,Georgia,Government of Georgia,Zviadists,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/21/1992,12/31/1993,Victory for Side A /Government Side,Europe
-1-195,291,Croatia,Government of Croatia,Serbian irregulars,Territory,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,05/31/1992,12/31/1992,Actor ceases to exist,Europe
 1-194,292,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,Serbian Republic of Bosnia-Herzegovina,Territory,War (at least 1000 battle-related deaths),Internal armed conflict,04/27/1992,11/21/1995,Peace agreement,Europe
 1-203,293,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,Croatian Republic of Bosnia-Herzegovina,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,10/20/1992,03/01/1994,Peace agreement,Europe
 1-202,294,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,Autonomous Province of Western Bosnia,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/21/1993,08/07/1995,Victory for Side A /Government Side,Europe
-1-218,295,Serbia (Yugoslavia),Government of Serbia (Yugoslavia),UCK,Territory,War (at least 1000 battle-related deaths),Internationalized internal armed,04/22/1996,06/30/1999,Peace agreement,Europe
 1-170,296,India,Government of India,ULFA,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1983,10/16/2010,Ceasefire,Asia
-1-198,297,Georgia,Government of Georgia,Republic of South Ossetia,Territory,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/22/1991,08/14/2008,Ceasefire,Europe
+1-198,297,Georgia,Government of Georgia,Republic of South Ossetia,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/22/1991,08/19/2004,Ceasefire,Europe
 1-62,298,Iraq,Government of Iraq,SCIRI,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/01/1982,12/31/1996,Low activity (less than 25 battle-deaths),Middle East
 1-205,299,Mexico,Government of Mexico,EPR,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/16/1996,12/31/1996,Low activity (less than 25 battle-deaths),Americas
 1-194,300,Bosnia-Herzegovina,Government of Bosnia-Herzegovina,Serbian irregulars,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,04/27/1992,12/31/1995,Actor ceases to exist,Europe
@@ -153,9 +140,8 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-146,352,Liberia,Government of Liberia,MODEL,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,04/27/2003,08/18/2003,Peace agreement,Africa
 1-200,353,Tajikistan,Government of Tajikistan,UTO,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/06/1992,11/16/1998,Victory for Side A /Government Side,Asia
 1-175,357,Rumania,Government of Rumania,NSF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/22/1989,12/23/1989,Victory for Side B /Rebel Side,Europe
-1-193,361,Azerbaijan,Government of Azerbaijan,Republic of Nagorno-Karabakh,Territory,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/29/1991,09/25/2012,Low activity (less than 25 battle-deaths),Europe
+1-193,361,Azerbaijan,Government of Azerbaijan,Republic of Nagorno-Karabakh,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/29/1991,12/31/2008,Low activity (less than 25 battle-deaths),Europe
 1-201,362,Azerbaijan,Government of Azerbaijan,Military faction (forces of Suret Husseinov),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/04/1993,06/18/1993,Victory for Side B /Rebel Side,Europe
-1-221,363,Uzbekistan,Government of Uzbekistan,IMU,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,02/16/1999,10/01/2000,Low activity (less than 25 battle-deaths),Asia
 1-103,364,Cambodia (Kampuchea),Government of Cambodia (Kampuchea),KR,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,04/30/1967,10/26/1998,Victory for Side A /Government Side,Asia
 1-147,366,Spain,Government of Spain,ETA,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/07/1968,12/13/1991,Low activity (less than 25 battle-deaths),Europe
 1-199,367,Moldova,Government of Moldova,PMR,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/13/1991,07/21/1992,Ceasefire,Europe
@@ -163,25 +149,22 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-181,370,Russia (Soviet Union),Government of Russia (Soviet Union),Republic of Armenia,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/19/1990,12/21/1991,Actor ceases to exist,Europe
 1-182,373,Russia (Soviet Union),Government of Russia (Soviet Union),APF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/19/1990,01/20/1990,Victory for Side A /Government Side,Europe
 1-207,375,Yemen (North Yemen),Government of Yemen (North Yemen),Democratic Republic of Yemen,Territory,War (at least 1000 battle-related deaths),Internal armed conflict,02/21/1994,07/04/1994,Victory for Side A /Government Side,Middle East
-1-63,376,Lebanon,Government of Lebanon,Forces of Michel Aoun,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,03/11/1989,10/13/1990,Victory for Side A /Government Side,Middle East
 1-37,377,Israel,Government of Israel,Fatah,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/28/1965,11/27/2007,Peace agreement,Middle East
 1-103,378,Cambodia (Kampuchea),Government of Cambodia (Kampuchea),KPNLF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/30/1979,10/23/1991,Peace agreement,Asia
 1-103,379,Cambodia (Kampuchea),Government of Cambodia (Kampuchea),FUNCINPEC,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1982,12/31/1997,Peace agreement,Asia
 1-37,380,Israel,Government of Israel,PIJ,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/31/1987,12/31/2012,Low activity (less than 25 battle-deaths),Middle East
 1-37,381,Israel,Government of Israel,Hamas,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/31/1989,12/31/2012,Ceasefire,Middle East
 1-65,382,Laos,Government of Laos,LRM,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/25/1989,04/10/1990,Victory for Side A /Government Side,Asia
-1-63,383,Lebanon,Government of Lebanon,Lebanese Forces,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,03/31/1985,09/23/1989,Ceasefire,Middle East
 1-156,387,India,Government of India,Sikh insurgents,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/20/1981,12/31/1993,Low activity (less than 25 battle-deaths),Asia
 1-29,405,India,Government of India,PWG,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/29/1987,10/14/2004,Actor ceases to exist,Asia
 1-29,406,India,Government of India,MCC,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/12/1992,10/14/2004,Actor ceases to exist,Asia
 1-201,407,Azerbaijan,Government of Azerbaijan,OPON Forces,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/30/1994,03/17/1995,Victory for Side A /Government Side,Europe
 1-137,411,Afghanistan,Government of Afghanistan,Jam'iyyat-i Islami-yi Afghanistan,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1975,12/31/1996,Actor ceases to exist,Asia
-1-137,412,Afghanistan,Government of Afghanistan,Hizb-i Islami-yi Afghanistan,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,03/31/1980,12/31/2013,Low activity (less than 25 battle-deaths),Asia
+1-137,412,Afghanistan,Government of Afghanistan,Hizb-i Islami-yi Afghanistan,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/31/1980,12/31/2006,Low activity (less than 25 battle-deaths),Asia
 1-137,413,Afghanistan,Government of Afghanistan,Hizb-i Wahdat,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1989,12/31/1995,Ceasefire,Asia
 1-200,415,Tajikistan,Government of Tajikistan,Forces of Khudoberdiyev,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/17/1997,11/16/1998,Victory for Side A /Government Side,Asia
 1-37,419,Israel,Government of Israel,PFLP,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/06/1970,12/31/2001,Low activity (less than 25 battle-deaths),Middle East
 1-137,422,Afghanistan,Government of Afghanistan,Junbish-i Milli-yi Islami,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/08/1993,12/31/1995,Ceasefire,Asia
-1-137,423,Afghanistan,Government of Afghanistan,UIFSA,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,10/11/1996,12/07/2001,Victory for Side B /Rebel Side,Asia
 1-37,426,Israel,Government of Israel,AMB,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/29/2001,12/31/2004,Actor ceases to exist,Middle East
 1-37,427,Israel,Government of Israel,PNA,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/25/1996,12/31/2002,Ceasefire,Middle East
 1-37,428,Israel,Government of Israel,PFLP-GC,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/31/1973,12/31/1989,Low activity (less than 25 battle-deaths),Middle East
@@ -192,8 +175,6 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-225,439,Ivory Coast,Government of Ivory Coast,FRCI,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/07/2004,11/09/2004,Peace agreement,Africa
 1-186,440,Haiti,Government of Haiti,FLRN,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/05/2004,02/29/2004,Victory for Side B /Rebel Side,Americas
 1-186,441,Haiti,Government of Haiti,OP Lavalas (Chimères) ,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/30/2004,12/31/2004,Low activity (less than 25 battle-deaths),Americas
-1-62,442,Iraq,Government of Iraq,al-Mahdi Army,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,04/04/2004,06/28/2008,Ceasefire,Middle East
-1-62,443,Iraq,Government of Iraq,Ansar al-Islam,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/12/2003,12/31/2011,Low activity (less than 25 battle-deaths),Middle East
 1-221,444,Uzbekistan,Government of Uzbekistan,JIG,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/29/2004,07/30/2004,Victory for Side A /Government Side,Asia
 1-249,446,Nigeria,Government of Nigeria,Ahlul Sunnah Jamaa,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/28/2003,10/08/2004,Victory for Side A /Government Side,Africa
 1-91,455,Chad,Government of Chad,FUCD,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/18/2005,12/24/2006,Peace agreement,Africa
@@ -205,7 +186,6 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-1,464,Bolivia,Government of Bolivia,ELN,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/31/1967,10/16/2067,Victory for Side A /Government Side,Americas
 1-3,466,China,Government of China,PLA,Government,War (at least 1000 battle-related deaths),Internal armed conflict,12/31/1946,12/08/2049,Victory for Side B /Rebel Side,Asia
 1-4,467,Greece,Government of Greece,DSE,Government,War (at least 1000 battle-related deaths),Internal armed conflict,03/31/1946,10/16/2049,Victory for Side A /Government Side,Europe
-1-7,468,Iran,Government of Iran,Republic of Azerbaijan,Territory,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,11/19/1945,12/16/2046,Victory for Side A /Government Side,Middle East
 1-10,469,Philippines,Government of Philippines,Huk,Government,War (at least 1000 battle-related deaths),Internal armed conflict,07/31/1946,12/31/2054,Victory for Side A /Government Side,Asia
 1-163,471,Togo,Government of Togo,MTD,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/23/1986,09/24/1986,Victory for Side A /Government Side,Africa
 1-250,473,Nigeria,Government of Nigeria,NDPVF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/04/2004,09/20/2004,Ceasefire,Africa
@@ -241,7 +221,6 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-102,519,Syria,Government of Syria,Muslim Brotherhood,Government,War (at least 1000 battle-related deaths),Internal armed conflict,06/16/1979,02/02/1982,Victory for Side A /Government Side,Middle East
 1-113,520,Sudan,Government of Sudan,Sudanese Communist Party,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/22/1971,07/22/1971,Victory for Side A /Government Side,Africa
 1-113,521,Sudan,Government of Sudan,Islamic Charter Front,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/02/1976,07/02/1976,Victory for Side A /Government Side,Africa
-1-133,522,Ethiopia,Government of Ethiopia,WSLF,Territory,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,01/04/1976,12/31/1983,Victory for Side A /Government Side,Africa
 1-146,525,Liberia,Government of Liberia,Military faction (forces of Samuel Doe),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,04/12/1980,04/14/1980,Victory for Side B /Rebel Side,Africa
 1-157,526,Sri Lanka,Government of Sri Lanka,TELO,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/06/1978,12/31/1985,Low activity (less than 25 battle-deaths),Asia
 1-107,528,Nigeria,Government of Nigeria,Republic of Biafra,Territory,War (at least 1000 battle-related deaths),Internal armed conflict,07/06/1967,01/12/1970,Victory for Side A /Government Side,Africa
@@ -252,31 +231,23 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-116,542,Pakistan,Government of Pakistan,Mukti Bahini,Territory,War (at least 1000 battle-related deaths),Internal armed conflict,03/26/1971,12/16/1971,Victory for Side B /Rebel Side,Asia
 1-129,544,Pakistan,Government of Pakistan,BLF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/18/1973,12/31/2012,Low activity (less than 25 battle-deaths),Asia
 1-144,546,Iran,Government of Iran,APCO,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/30/1979,12/31/1979,Low activity (less than 25 battle-deaths),Middle East
-1-149,547,Gambia,Government of Gambia,NRC,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,07/30/1981,08/05/1981,Victory for Side A /Government Side,Africa
 1-145,548,Saudi Arabia,Government of Saudi Arabia,JSM,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/20/1979,12/04/1979,Victory for Side A /Government Side,Middle East
 1-148,551,Tunisia,Government of Tunisia,Résistance Armée Tunisienne,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/27/1980,01/28/1980,Victory for Side A /Government Side,Africa
-1-103,553,Cambodia (Kampuchea),Government of Cambodia (Kampuchea),KNUFNS,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/30/1978,01/07/1979,Victory for Side B /Rebel Side,Asia
 1-118,554,Uganda,Government of Uganda,Military faction (forces of Idi Amin),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/25/1971,01/29/1971,Victory for Side B /Rebel Side,Africa
 1-118,555,Uganda,Government of Uganda,Military faction (forces of Charles Arube),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/23/1974,03/23/1974,Victory for Side A /Government Side,Africa
-1-118,556,Uganda,Government of Uganda,UNLF,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,03/31/1979,04/10/1979,Victory for Side B /Rebel Side,Africa
 1-150,558,South Africa,Government of South Africa,ANC,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/01/1978,12/31/1988,Low activity (less than 25 battle-deaths),Africa
 1-162,559,Suriname,Government of Surinam,SLA,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/21/1986,12/31/1987,Ceasefire,Americas
 1-122,560,Zimbabwe (Rhodesia),Government of Zimbabwe (Rhodesia),ZANU,Government,War (at least 1000 battle-related deaths),Internal armed conflict,04/29/1966,10/08/1976,Actor ceases to exist,Africa
-1-121,561,Oman,Government of Oman,PFLO,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,10/31/1968,12/11/1975,Victory for Side A /Government Side,Middle East
 1-164,564,South Yemen,Government of South Yemen,Yemenite Socialist Party - Abdul Fattah Ismail faction,Government,War (at least 1000 battle-related deaths),Internal armed conflict,01/13/1986,01/20/1986,Victory for Side B /Rebel Side,Middle East
 1-122,565,Zimbabwe (Rhodesia),Government of Zimbabwe (Rhodesia),ZAPU,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/07/1966,12/31/2068,Low activity (less than 25 battle-deaths),Africa
 1-140,567,Nicaragua,Government of Nicaragua,FSLN,Government,War (at least 1000 battle-related deaths),Internal armed conflict,12/27/1974,07/19/1979,Victory for Side B /Rebel Side,Americas
-1-131,568,Angola,Government of Angola,FNLA,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,11/11/1975,12/31/1979,Low activity (less than 25 battle-deaths),Africa
 1-63,570,Lebanon,Government of Lebanon,Independent Nasserite Movement,Government,War (at least 1000 battle-related deaths),Internal armed conflict,05/15/1958,07/31/2058,Peace agreement,Middle East
 1-118,574,Uganda,Government of Uganda,NRA,Government,War (at least 1000 battle-related deaths),Internal armed conflict,02/18/1981,01/26/1986,Victory for Side B /Rebel Side,Africa
 1-118,575,Uganda,Government of Uganda,UFM,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/09/1981,09/30/1989,Victory for Side A /Government Side,Africa
-1-62,578,Iraq,Government of Iraq,RJF,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,10/03/2004,12/31/2007,Low activity (less than 25 battle-deaths),Middle East
 1-18,580,China,Government of China,Taiwanese insurgents,Territory,War (at least 1000 battle-related deaths),Internal armed conflict,02/28/1947,03/24/2047,Victory for Side A /Government Side,Asia
 1-27,581,Costa Rica,Government of Costa Rica,National Liberation Army,Government,War (at least 1000 battle-related deaths),Internal armed conflict,03/03/1948,04/20/2048,Victory for Side B /Rebel Side,Americas
-1-87,583,Gabon,Government of Gabon,Military faction (forces loyal to Léon M'Ba),Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,02/18/1964,02/19/2064,Victory for Side A /Government Side,Africa
 1-73,584,France,Government of France,OAS,Government,War (at least 1000 battle-related deaths),Internal armed conflict,04/22/1961,06/30/2062,Victory for Side A /Government Side,Europe
-1-64,585,Malaysia,Government of Malaysia,CPM,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/31/1957,07/31/2060,Victory for Side A /Government Side,Asia
-1-83,586,Malaysia,Government of Malaysia,CCO,Territory,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/31/1963,12/31/2066,Low activity (less than 25 battle-deaths),Asia
+1-64,585,Malaysia,Government of Malaysia,CPM,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1957,12/31/1981,Low activity (less than 25 battle-deaths),Asia
 1-68,587,DR Congo (Zaire),Government of DR Congo (Zaire) ,State of Katanga,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,10/27/1961,12/28/2062,Victory for Side A /Government Side,Africa
 1-69,588,DR Congo (Zaire),Government of DR Congo (Zaire) ,Independent Mining State of South Kasai,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/31/1960,12/31/2062,Victory for Side A /Government Side,Africa
 1-50,590,Argentina,Government of Argentina,Military faction (forces of Eduardo A. Lonardi Doucet),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/16/1955,09/19/2055,Victory for Side B /Rebel Side,Americas
@@ -288,24 +259,18 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-43,598,Thailand,Government of Thailand,Military faction (navy),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/30/1951,07/01/2051,Victory for Side A /Government Side,Asia
 1-43,599,Thailand,Government of Thailand,CPT,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1966,12/31/1982,Low activity (less than 25 battle-deaths),Asia
 1-45,600,Cuba,Government of Cuba,M-26-7,Government,War (at least 1000 battle-related deaths),Internal armed conflict,07/26/1953,12/31/2058,Victory for Side B /Rebel Side,Americas
-1-45,602,Cuba,Government of Cuba,Cuban Revolutionary Council,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,04/17/1961,04/20/2061,Victory for Side A /Government Side,Americas
 1-40,605,Indonesia,Government of Indonesia,Republic of South Moluccas,Territory,War (at least 1000 battle-related deaths),Internal armed conflict,08/05/1950,11/15/2050,Victory for Side A /Government Side,Asia
 1-39,606,China,Government of China,Tibet,Territory,War (at least 1000 battle-related deaths),Internal armed conflict,10/07/1950,04/23/2059,Victory for Side A /Government Side,Asia
-1-61,607,Oman,Government of Oman,State of Oman/Free Oman,Territory,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,07/31/1957,08/26/2057,Victory for Side A /Government Side,Middle East
-1-52,614,South Vietnam,Government of South Vietnam,FNL,Territory,War (at least 1000 battle-related deaths),Internationalized internal armed,04/30/1955,12/31/2064,Actor ceases to exist,Asia
 1-33,615,Yemen (North Yemen),Government of Yemen (North Yemen),Opposition coalition,Government,War (at least 1000 battle-related deaths),Internal armed conflict,03/15/1948,03/15/2048,Victory for Side B /Rebel Side,Middle East
-1-33,616,Yemen (North Yemen),Government of Yemen (North Yemen),Royalists,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,10/31/1962,05/23/1970,Peace agreement,Middle East
 1-33,617,Yemen (North Yemen),Government of Yemen (North Yemen),NDF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/31/1979,05/31/1982,Low activity (less than 25 battle-deaths),Middle East
 1-36,621,Guatemala,Government of Guatemala,Military faction,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/18/1949,07/19/2049,Victory for Side A /Government Side,Americas
 1-36,622,Guatemala,Government of Guatemala,Forces of Carlos Castillo Armas,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/18/1954,06/27/2054,Victory for Side B /Rebel Side,Americas
 1-36,624,Guatemala,Government of Guatemala,FAR I,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/22/1963,12/31/2063,Low activity (less than 25 battle-deaths),Americas
 1-36,625,Guatemala,Government of Guatemala,EGP,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/31/1975,12/31/1981,Actor ceases to exist,Americas
 1-36,627,Guatemala,Government of Guatemala,ORPA,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/30/1979,12/31/1981,Actor ceases to exist,Americas
-1-222,628,Central African Republic,Government of Central African Republic,UFDR,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,10/30/2006,12/01/2006,Peace agreement,Africa
 1-37,629,Israel,Government of Israel,PRC,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/12/2001,12/31/2006,Low activity (less than 25 battle-deaths),Middle East
 1-113,630,Sudan,Government of Sudan,NRF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/03/2006,12/31/2006,Low activity (less than 25 battle-deaths),Africa
 1-113,631,Sudan,Government of Sudan,SLM/A - MM,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/23/2006,05/05/2006,Peace agreement,Africa
-1-141,632,Somalia,Government of Somalia,ARS/UIC,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,09/18/2006,12/31/2006,Actor ceases to exist,Africa
 1-91,633,Chad,Government of Chad,RAFD,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/04/2006,12/31/2006,Actor ceases to exist,Africa
 1-91,634,Chad,Government of Chad,UFDD,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,10/23/2006,12/31/2007,Actor ceases to exist,Africa
 1-129,638,Pakistan,Government of Pakistan,Baloch Ittehad,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/12/2006,12/31/2006,Actor ceases to exist,Asia
@@ -321,25 +286,13 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-254,651,DR Congo (Zaire),Government of DR Congo (Zaire) ,BDK,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/02/1998,03/31/2008,Victory for Side A /Government Side,Africa
 1-72,652,Nepal,Government of Nepal,NC,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/29/1960,12/31/2062,Ceasefire,Asia
 1-74,653,Iraq,Government of Iraq,KDP-QM,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1977,12/31/1978,Actor ceases to exist,Middle East
-1-2,654,Cambodia (Kampuchea),Government of France,Khmer Issarak,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,08/31/1946,11/09/2053,Peace agreement,Asia
-1-76,655,Brunei,Government of United Kingdom,North Kalimantan Liberation Army,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,12/08/1962,12/31/2062,Victory for Side A /Government Side,Asia
-1-91,656,Chad,Government of Chad,Frolinat,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,07/31/1966,12/31/1970,Low activity (less than 25 battle-deaths),Africa
-1-5,657,Indonesia,Government of Netherlands,Indonesian People's Army,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,10/13/1945,08/15/2049,Peace agreement,Asia
-1-91,658,Chad,Government of Chad,First Liberation Army,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,01/09/1971,11/24/1972,Victory for Side A /Government Side,Africa
-1-91,659,Chad,Government of Chad,Second Liberation Army,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,01/22/1971,12/31/1971,Low activity (less than 25 battle-deaths),Africa
 1-91,660,Chad,Government of Chad,FAN,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/18/1976,06/07/1982,Victory for Side B /Rebel Side,Africa
 1-91,661,Chad,Government of Chad,FAP,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/21/1977,02/22/1979,Victory for Side B /Rebel Side,Africa
 1-91,662,Chad,Government of Chad,FAT,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/27/1982,12/31/1982,Low activity (less than 25 battle-deaths),Africa
-1-91,663,Chad,Government of Chad,GUNT,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,01/13/1983,12/31/1986,Low activity (less than 25 battle-deaths),Africa
-1-91,664,Chad,Government of Chad,CDR,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,01/02/1987,11/22/1987,Ceasefire,Africa
-1-9,666,Laos,Government of France,Lao Issara,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,03/31/1946,12/31/2053,Victory for Side B /Rebel Side,Asia
 1-78,667,Ethiopia,Government of Ethiopia,ELF  ,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/30/1961,12/31/1980,Low activity (less than 25 battle-deaths),Africa
-1-17,668,Vietnam (North Vietnam),Government of France,Viet minh,Territory,War (at least 1000 battle-related deaths),Extrasystemic armed conflict,11/20/1946,07/20/2054,Peace agreement,Asia
-1-21,669,Madagascar (Malagasy),Government of France,MDRM,Territory,War (at least 1000 battle-related deaths),Extrasystemic armed conflict,03/29/1947,12/31/2047,Victory for Side A /Government Side,Africa
 1-22,671,Paraguay,Government of Paraguay,Military faction (forces of Alfredo Stroessner),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/05/1954,05/05/2054,Victory for Side B /Rebel Side,Americas
 1-80,672,Venezuela,Government of Venezuela,Military faction (navy),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/03/1962,12/31/2062,Victory for Side A /Government Side,Americas
 1-22,673,Paraguay,Government of Paraguay,"Opposition coalition (Febreristas, Liberals and Communists)",Government,War (at least 1000 battle-related deaths),Internal armed conflict,03/07/1947,08/21/2047,Victory for Side A /Government Side,Americas
-1-82,675,Guinea-Bissau,Government of Portugal,PAIGC,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,02/28/1963,12/31/1973,Peace agreement,Africa
 1-85,676,Sudan,Government of Sudan,SSLM,Territory,War (at least 1000 battle-related deaths),Internal armed conflict,12/31/1963,01/31/1972,Peace agreement,Africa
 1-24,677,Myanmar (Burma),Government of Myanmar (Burma),CPB-RF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,02/29/1948,12/31/2050,Low activity (less than 25 battle-deaths),Asia
 1-24,678,Myanmar (Burma),Government of Myanmar (Burma),"PVO - ""White Band"" faction",Government,War (at least 1000 battle-related deaths),Internal armed conflict,08/31/1948,12/31/2053,Low activity (less than 25 battle-deaths),Asia
@@ -348,55 +301,28 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-86,681,DR Congo (Zaire),Government of DR Congo (Zaire) ,FLNC,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/08/1977,06/15/1978,Victory for Side A /Government Side,Africa
 1-26,683,Myanmar (Burma),Government of Myanmar (Burma),MFL-MUF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1948,12/31/2051,Actor ceases to exist,Asia
 1-26,684,Myanmar (Burma),Government of Myanmar (Burma),MPF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1952,07/12/2058,Peace agreement,Asia
-1-88,685,Mozambique,Government of Portugal,Frelimo,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,11/19/1964,09/07/1974,Peace agreement,Africa
-1-89,686,South Yemen,Government of United Kingdom,FLOSY,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,11/25/1964,11/29/2067,Peace agreement,Middle East
 1-157,687,Sri Lanka,Government of Sri Lanka,EPRLF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/04/1985,12/31/1989,Low activity (less than 25 battle-deaths),Asia
 1-29,689,India,Government of India,CPI,Government,War (at least 1000 battle-related deaths),Internal armed conflict,05/01/1948,12/31/2051,Low activity (less than 25 battle-deaths),Asia
 1-29,690,India,Government of India,CPI-ML,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/27/1969,12/31/1971,Victory for Side A /Government Side,Asia
 1-158,692,Cameroon,Government of Cameroon,UPC,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/31/1960,12/31/2061,Low activity (less than 25 battle-deaths),Africa
-1-31,693,Malaysia,Government of United Kingdom,CPM,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,06/19/1948,08/31/2057,Actor ceases to exist,Asia
 1-36,694,Guatemala,Government of Guatemala,FAR II,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1970,12/31/1981,Actor ceases to exist,Americas
 1-37,695,Israel,Government of Israel,Palestinian insurgents,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/15/1948,12/31/2064,Actor ceases to exist,Middle East
 1-37,696,Israel,Government of Israel,Non PLO groups,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1965,12/31/1973,Actor ceases to exist,Middle East
-1-41,698,United States of America,Government of United States of America,Puerto Rican Nationalist Party,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,10/30/1950,11/01/2050,Victory for Side A /Government Side,Americas
-1-44,699,Kenya,Government of United Kingdom,Mau Mau,Territory,War (at least 1000 battle-related deaths),Extrasystemic armed conflict,10/22/1952,12/31/2056,Victory for Side A /Government Side,Africa
-1-118,700,Uganda,Government of Uganda,Kikosi Maalum,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,09/17/1972,03/28/1979,Actor ceases to exist,Africa
-1-118,701,Uganda,Government of Uganda,Fronasa,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,03/31/1973,03/28/1979,Actor ceases to exist,Africa
-1-47,702,Morocco,Government of France,Istiqlal,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,11/07/1953,03/02/2056,Peace agreement,Africa
-1-118,703,Uganda,Government of Uganda,FUNA,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,08/31/1980,12/31/1981,Low activity (less than 25 battle-deaths),Africa
+1-118,700,Uganda,Government of Uganda,Kikosi Maalum,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/17/1972,09/20/1972,Victory for Side A /Government Side,Africa
 1-118,704,Uganda,Government of Uganda,UNRF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/31/1981,12/31/1983,Low activity (less than 25 battle-deaths),Africa
-1-48,705,Tunisia,Government of France,National Liberation Army,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,04/30/1953,03/20/2056,Actor ceases to exist,Africa
 1-118,706,Uganda,Government of Uganda,UPDA,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/10/1986,12/31/1987,Peace agreement,Africa
-1-49,707,Algeria,Government of France,FLN ,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,11/01/1954,03/19/2062,Peace agreement,Africa
 1-118,708,Uganda,Government of Uganda,Lord's Army,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/18/1988,08/11/1988,Victory for Side A /Government Side,Africa
-1-49,709,Algeria,Government of France,MNA,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,12/31/1955,12/31/2057,Low activity (less than 25 battle-deaths),Africa
-1-51,710,Cyprus,Government of United Kingdom,EOKA,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,06/02/1955,02/19/2059,Peace agreement,Europe
 1-54,711,India,Government of India,NNC,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/20/1955,06/15/2068,Low activity (less than 25 battle-deaths),Asia
 1-122,712,Zimbabwe (Rhodesia),Government of Zimbabwe (Rhodesia),PF,Government,War (at least 1000 battle-related deaths),Internal armed conflict,11/02/1976,12/21/1979,Peace agreement,Africa
-1-57,713,Cameroon,Government of France,UPC,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,09/30/1957,12/31/2059,Actor ceases to exist,Africa
-1-187,714,Sierra Leone,Government of Sierra Leone,WSB,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,09/10/2000,09/10/2000,Victory for Side A /Government Side,Africa
-1-59,715,Mauritania,Government of France,NLA,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,01/12/1957,06/30/2058,Victory for Side A /Government Side,Africa
-1-60,716,Morocco,Government of Spain,NLA,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,11/23/1957,06/30/2058,Victory for Side A /Government Side,Africa
 1-62,717,Iraq,Government of Iraq,Military faction (free Officers Movement),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/14/1958,07/14/2058,Victory for Side B /Rebel Side,Middle East
 1-62,718,Iraq,Government of Iraq,Military faction (forces of Abdul Wahab al-Shawaf),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/08/1959,03/10/2059,Victory for Side A /Government Side,Middle East
 1-62,719,Iraq,Government of Iraq,Military faction (forces of Abd as-Salam Arif),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/18/1963,11/20/2063,Victory for Side A /Government Side,Middle East
 1-62,720,Iraq,Government of Iraq,NCRC,Government,War (at least 1000 battle-related deaths),Internal armed conflict,02/08/1963,02/18/2063,Victory for Side B /Rebel Side,Middle East
-1-63,722,Lebanon,Government of Lebanon,NSF,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,09/02/1975,12/31/1984,Actor ceases to exist,Middle East
+1-63,722,Lebanon,Government of Lebanon,NSF,Government,War (at least 1000 battle-related deaths),Internal armed conflict,09/02/1975,10/21/1976,Ceasefire,Middle East
 1-63,723,Lebanon,Government of Lebanon,LAA,Government,War (at least 1000 battle-related deaths),Internal armed conflict,01/20/1976,10/21/1976,Ceasefire,Middle East
-1-63,724,Lebanon,Government of Lebanon,Amal,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,09/01/1983,12/31/1984,Actor ceases to exist,Middle East
 1-63,725,Lebanon,Government of Lebanon,NUF,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/11/1985,12/31/1986,Low activity (less than 25 battle-deaths),Middle East
 1-63,726,Lebanon,Government of Lebanon,Lebanese Forces - Hobeika faction,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/06/1986,12/31/1986,Low activity (less than 25 battle-deaths),Middle East
 1-137,727,Afghanistan,Government of Afghanistan,PDPA,Government,War (at least 1000 battle-related deaths),Internal armed conflict,04/27/1978,04/28/1978,Victory for Side B /Rebel Side,Asia
-1-137,731,Afghanistan,Government of Afghanistan,Harakat-i Inqilab-i Islami-yi Afghanistan ,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/31/1980,12/31/1988,,Asia
-1-137,732,Afghanistan,Government of Afghanistan,Mahaz-i Milli-yi Islami-yi Afghanistan ,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/31/1980,12/31/1989,Low activity (less than 25 battle-deaths),Asia
-1-137,733,Afghanistan,Government of Afghanistan,Jabha-yi Nijat-i Milli-yi Afghanistan ,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/31/1980,12/31/1988,Low activity (less than 25 battle-deaths),Asia
-1-65,734,Laos,Government of Laos,Pathet Lao,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,11/12/1959,04/26/2061,Peace agreement,Asia
-1-137,735,Afghanistan,Government of Afghanistan,Ittihad-i Islami Bara-yi Azadi-yi Afghanistan ,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,07/16/1981,12/31/1988,Low activity (less than 25 battle-deaths),Asia
-1-65,736,Laos,Government of Laos,Neutralists,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/13/1960,12/16/2060,Victory for Side A /Government Side,Asia
-1-137,737,Afghanistan,Government of Afghanistan,Harakat-i Islami-yi Afghanistan,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/31/1984,12/31/1984,Low activity (less than 25 battle-deaths),Asia
-1-66,738,Angola,Government of Portugal,MPLA,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,02/04/1961,12/31/2061,Low activity (less than 25 battle-deaths),Africa
-1-66,739,Angola,Government of Portugal,FNLA,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,03/15/1961,12/31/2066,,Africa
-1-66,740,Angola,Government of Portugal,UNITA,Territory,Minor (between 25 and 999 battle-related deaths),Extrasystemic armed conflict,12/26/1966,12/31/2067,Low activity (less than 25 battle-deaths),Africa
 1-67,742,Myanmar (Burma),Government of Myanmar (Burma),NSH,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/22/1959,12/31/2059,Actor ceases to exist,Asia
 1-67,743,Myanmar (Burma),Government of Myanmar (Burma),SSIA,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/31/1960,12/31/2061,Actor ceases to exist,Asia
 1-67,744,Myanmar (Burma),Government of Myanmar (Burma),SNUF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1962,12/31/2063,Actor ceases to exist,Asia
@@ -434,14 +360,12 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-100,793,Nigeria,Government of Nigeria,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/09/2009,07/30/2009,Low activity (less than 25 battle-deaths),Africa
 1-25,794,Myanmar (Burma),Government of Myanmar (Burma),RPF,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1973,12/31/1978,Low activity (less than 25 battle-deaths),Asia
 1-25,795,Myanmar (Burma),Government of Myanmar (Burma),ALP,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/01/1977,05/30/1977,Victory for Side A /Government Side,Asia
-1-261,796,Ethiopia,Government of Ethiopia,SALF,Territory,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/31/1977,12/31/1980,Low activity (less than 25 battle-deaths),Africa
 1-265,797,Myanmar (Burma),Government of Myanmar (Burma),LNUP,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/11/1973,12/31/1982,Actor ceases to exist,Asia
 1-264,798,Myanmar (Burma),Government of Myanmar (Burma),MNDAA,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/27/2009,08/29/2009,Victory for Side A /Government Side,Asia
 1-25,799,Myanmar (Burma),Government of Myanmar (Burma),APLP,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/31/1948,12/31/2057,Ceasefire,Asia
 1-25,800,Myanmar (Burma),Government of Myanmar (Burma),Mujahid Party,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,07/31/1948,11/15/2061,Victory for Side A /Government Side,Asia
 1-25,801,Myanmar (Burma),Government of Myanmar (Burma),ANLP,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1964,12/31/1972,Low activity (less than 25 battle-deaths),Asia
 1-25,802,Myanmar (Burma),Government of Myanmar (Burma),CPA,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/31/1964,12/31/1973,Low activity (less than 25 battle-deaths),Asia
-1-141,804,Somalia,Government of Somalia,Hizbul Islam,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,03/17/2009,12/31/2010,Actor ceases to exist,Africa
 1-23,805,Myanmar (Burma),Government of Myanmar (Burma),DKBA 5,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/05/2010,04/29/2013,Low activity (less than 25 battle-deaths),Asia
 1-267,806,Mauritania,Government of Mauritania,AQIM,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/15/2008,10/20/2011,Low activity (less than 25 battle-deaths),Africa
 1-91,807,Chad,Government of Chad,PFNR,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,12/06/2007,04/28/2010,Low activity (less than 25 battle-deaths),Africa
@@ -458,11 +382,8 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-271,823,Libya,Government of Libya,NTC,Government,War (at least 1000 battle-related deaths),Internal armed conflict,02/28/2011,08/22/2011,Victory for Side B /Rebel Side,Africa
 1-271,825,Libya,Government of Libya,Forces of Muammar Gaddafi,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,08/23/2011,10/20/2011,Victory for Side A /Government Side,Africa
 1-67,826,Myanmar (Burma),Government of Myanmar (Burma),SSPP,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/22/2006,12/31/2013,Low activity (less than 25 battle-deaths),Asia
-1-179,828,Rwanda,Government of Rwanda,FDLR,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,05/20/2001,12/02/2012,Low activity (less than 25 battle-deaths),Africa
+1-179,828,Rwanda,Government of Rwanda,FDLR,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/20/2001,03/01/2002,Low activity (less than 25 battle-deaths),Africa
 1-273,830,China,Government of China,ETIM,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,04/05/1990,08/29/2008,Low activity (less than 25 battle-deaths),Asia
-1-86,831,DR Congo (Zaire),Government of DR Congo (Zaire) ,M23,Government,War (at least 1000 battle-related deaths),Internationalized internal armed,05/09/2012,11/05/2013,Victory for Side A /Government Side,Africa
-1-222,832,Central African Republic,Government of Central African Republic,Seleka,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,12/10/2012,03/24/2013,Victory for Side B /Rebel Side,Africa
-1-274,835,Mali,Government of Mali,Ansar Dine,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,01/20/2012,12/31/2013,Low activity (less than 25 battle-deaths),Africa
 1-177,836,Mali,Government of Mali,MNLA,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,01/17/2012,03/31/2012,Victory for Side B /Rebel Side,Africa
 1-274,837,Mali,Government of Mali,Military faction (Red Berets),Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,05/01/2012,05/01/2012,Victory for Side A /Government Side,Africa
 1-275,838,Bangladesh,Government of Bangladesh,PBCP,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,04/24/1994,12/31/2005,Low activity (less than 25 battle-deaths),Asia
@@ -476,7 +397,6 @@ ConflictId,DyadId,Location,SideA,SideB,DisagreementOver,IntensityLevel,TypeOfCon
 1-277,853,Myanmar (Burma),Government of Myanmar (Burma),NSCN-K,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,04/17/1995,02/15/2007,Low activity (less than 25 battle-deaths),Asia
 1-270,860,South Sudan,Government of South Sudan,SSDM/A - Cobra Faction,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,09/26/2011,12/31/2013,Peace agreement,Africa
 1-278,861,Malaysia,Government of Malaysia,Sultanate of Sulu,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/01/2013,03/24/2013,Victory for Side A /Government Side,Asia
-1-274,862,Mali,Government of Mali,MUJAO,Government,Minor (between 25 and 999 battle-related deaths),Internationalized internal armed,01/12/2013,08/22/2013,Actor ceases to exist,Africa
 1-274,863,Mali,Government of Mali,AQIM,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,06/14/2009,07/16/2009,Low activity (less than 25 battle-deaths),Africa
 1-139,11299,India,Government of India,NLFT-B,Territory,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,11/22/2003,12/28/2004,Low activity (less than 25 battle-deaths),Asia
 1-29,11932,India,Government of India,CPI-ML-J,Government,Minor (between 25 and 999 battle-related deaths),Internal armed conflict,03/08/1999,12/31/2000,Low activity (less than 25 battle-deaths),Asia
