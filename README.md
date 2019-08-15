@@ -1,11 +1,10 @@
 # POLSCI-5
 
-Intructor: Aila Matanock (Fall 2019)
+Instructor: Aila Matanock (Fall 2019)
 
 ## Civil Wars Notebook 
 
 Developers: Lauren Hom, Ravi Singhal
-
 Code Maintenance: Elias Saravia
 
 ### Sources and Contributors
@@ -20,7 +19,6 @@ Exploration of rows, columns, and data visualizations of civil wars from the Upp
 ## Immigration Notebook
 
 Developers: Lauren Hom, Ravi Singhal
-
 Code Maintenance: Elias Saravia
 
 ### Sources and Contriubtors 
